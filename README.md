@@ -1,5 +1,5 @@
 # AutoRunEmis
-# modified 00_envVriables_settingEmis_XXX.sh
+modified 00_envVriables_settingEmis_XXX.sh
 source 00_envVriables_settingEmis_XXX.sh
 
 source ~/.bash_profile
