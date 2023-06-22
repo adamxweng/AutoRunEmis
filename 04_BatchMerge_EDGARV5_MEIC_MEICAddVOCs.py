@@ -8,9 +8,9 @@ import os
 # declaring
 
 # original MEIC base data
-MEIC_CO = Dataset("/gpfs/home/hpc15zha/project/11_wrfchem_20211129/output/EmisUpdate_1/LongTermSim/2017/MOZART/emis/201707/sectors/allsectors/wrfchemi_00z_d01")
+MEIC_CO = Dataset("/gpfs/home/hpc15zha/project/11_wrfchem_20211129/output/EmisUpdate_1/LongTermSim/2019/MOZART/emis/201907/sectors/allsectors/wrfchemi_00z_d01")
 
-rootdir="/gpfs/home/hpc15zha/project/11_wrfchem_20211129/output/EmisUpdate_1/LongTermSim/2017/MOZART/emis/201707/"
+rootdir="/gpfs/home/hpc15zha/project/11_wrfchem_20211129/output/EmisUpdate_1/LongTermSim/2019/MOZART/emis/201907/"
 
 
 EDGAR_dir = "/gpfs/home/hpc15zha/project/11_wrfchem_20211129/output/EmisUpdate_1/201707/MOZART/emis/1_base/EDGARv5/" # EDGAR file, with PMspec

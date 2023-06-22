@@ -27,7 +27,7 @@ cat > ${emisinpdir}/agr.inp <<EOF
             'OLE2(1)','ETHE(1)','HCHO(1)','CCHO(1)','ACET(1)',
             'MEOH(1)','ISOP(1)','TERP(1)','BALD(1)','CH4(1)',
 			'CRES(1)','PHEN(1)',
-            'CO(28)','CO2(44)','NH3(17)','NO(30)','NO2(46)','OC(1)','PM25(1)','PM10(1)','SO2(64)',
+            'CO(28)','NH3(17)','NO(30)','NO2(46)','OC(1)','PM25(1)','PM10(1)','SO2(64)',
  sub_categories  = 'emis_tot'
  cat_var_prefix  = ' '
  serial_output   = .false.
